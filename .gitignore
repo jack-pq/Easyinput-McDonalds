@@ -1,69 +1,44 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directories
-build/
-Build/
-build-*/
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
-
-# Temporary files
-*.tmp
-*.log
-*.bak
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
 *.swp
+*.swo
 
-# vcpkg
-vcpkg_installed/
+# ESP-IDF and host build outputs
+build/
+build-*/
+build-host/
+managed_components/
+sdkconfig
+sdkconfig.old
+compile_commands.json
+*.bin
+*.elf
+*.map
 
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
+# Generated caches and temporary output
 .cache/
+output/
+tmp/
+temp/
+*.log
+*.dump
+*.core
+*.pyc
+__pycache__/
+assets/readme/render/
+assets/readme/page/
+
+# Local credentials and private material
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+*.key
+*.p12
+*.pfx
+
+# Keep dependencies.lock tracked for reproducible builds.
