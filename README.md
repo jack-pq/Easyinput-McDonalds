@@ -113,5 +113,5 @@ python tools/ai_mic_ui.py
 
 ---
 
-**项目维护者**：小李子（GitHub: CY-CHENYUE）
-**联系方式**：微信/邮件请通过工作空间内的 Issue 联系。
+**项目维护者**：小李子（GitHub:https://github.com/jack-pq）
+**联系方式**：请通过工作空间内的 Issue 联系。
