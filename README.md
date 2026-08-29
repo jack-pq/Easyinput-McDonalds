@@ -1,5 +1,5 @@
 # EasyInput AI HostAction v1 示例项目
-# 本项目基于 https://github.com/CY-CHENYUE/easy-input-maker/ 此开源项目二改，如需商用，请联系 https://github.com/CY-CHENYUE ，此项目归属于WayToAGI社群
+### 本项目基于 https://github.com/CY-CHENYUE/easy-input-maker/ 此开源项目二改，如需商用，请联系 https://github.com/CY-CHENYUE ，此项目归属于WayToAGI社群
 
 ## 项目简介
 
